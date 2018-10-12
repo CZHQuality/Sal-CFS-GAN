@@ -17,3 +17,5 @@ https://github.com/cvzoya/saliency
 https://github.com/Eyyub/tensorflow-pix2pix
 https://github.com/marcellacornia/sam
 https://github.com/TadasBaltrusaitis/OpenFace
+
+Figures are Visulation Results : (The first column is the original image, the second column is the generated saliency map, the third is the ground-truth saliency map)
