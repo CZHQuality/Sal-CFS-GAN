@@ -1,6 +1,6 @@
-Please download the "versionGitHub"
+The main codes of this repository are listed in "versionGitHub"
 
-The main contributions of the proposed model :
+The main contributions of the proposed model (called as GazeGAN):
 1. The proposed saliency detection model is based on Generative Adversarial Model. The generator is based on an U-Net (with Center-Surround Connection, optional) and a ResNet Block, and the discriminator contains 4 convolutional layers. 
 2. The loss function is a weighted sum of the following losses. Pixel-wise losses: L1 loss, KLD loss, CC loss, NSS loss, and we also propose a new  Histogram loss (Alternative Chi-Square) which can improve the smoothness of the generated saliency maps (tending to the ground truth human gaze maps), and has the higher correlation with the popular sAUC metric.
 3. We establish a new eye-movement database which contains several kinds of common distortions and transformations. And we proposed a valid data augmentation strategy for saliency prediction field based on sufficient experiments. And we use the proposed data augmentation strategy to boost the deep saliency model performance.
