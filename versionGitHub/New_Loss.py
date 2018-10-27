@@ -1,3 +1,5 @@
+# This manuscript is revised from SAM-ResNet and SAM-VGG, but we use another loss code in this project, as shown in "pix2pix_New.py"
+
 import tensorflow as tf 
 import theano.tensor as T
 import keras.backend as K
