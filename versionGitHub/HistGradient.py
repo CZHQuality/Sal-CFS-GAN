@@ -1,5 +1,5 @@
-# This code is used to test the performance of the Histogram Estimation Method proposed by 
-# "Learning Deep Embeddings with Histogram Loss"
+# This code is used to test the performance of the Histogram Estimation Method
+# Please refer to "Learning Deep Embeddings with Histogram Loss" for more details
 # Differentiable Histogram Loss
 # When image is in int8 format, it's a special case of Differentiable Histogram Loss
 
