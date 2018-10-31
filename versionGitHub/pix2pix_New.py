@@ -64,8 +64,9 @@ class Pix2pix(object):
 import numpy as np
 import tensorflow as tf
 from model.discriminator import Discriminator
-# from model.generator import Generator
-from model.generator_New import Generator
+# from model.generator import Generator # Traditional U-Net, for abalation comparison
+from model.generator_New import Generator # U-Net + ResBlock + HistLoss, for abalation comparison
+# from model.generator_New_2 import Generator # U-Net + ResBlock + Center-Surround Connection + HistLoss, for abalation comparison
 # import New_Loss
 
 class Pix2pix(object):
