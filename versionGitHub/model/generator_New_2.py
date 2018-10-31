@@ -1,4 +1,4 @@
-# This code consider changing U-net into Center-Surround format
+# U-net + Center-Surround connection + ResBlock
 import numpy as np
 import tensorflow as tf
 from .utils import get_shape, batch_norm, lkrelu
