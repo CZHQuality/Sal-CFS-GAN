@@ -26,5 +26,4 @@ https://github.com/TadasBaltrusaitis/OpenFace
 
 Figures are Visulation Results : (The first column is the original image, the second column is the generated saliency map, the third is the ground-truth saliency map)
 
-Please cite the following publication when you want to use this repository :
-https://arxiv.org/abs/1810.04456
+The code of another version of "local+global generators" will be released after acceptance of our paper ... 
