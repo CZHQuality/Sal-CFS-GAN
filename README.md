@@ -18,7 +18,8 @@ For reducing the storage space, we down-sample the original source images as res
 If you want to get the original high-resolution source image, please contact with me: chezhaohui@sjtu.edu.cn;chezhaohuihy@gmail.com;
 
 
-The code is highly inspired by the following projects, and thanks for their contributions : 
+The code is highly inspired by the following projects, and thanks for their contributions:
+
 https://github.com/cvzoya/saliency
 https://github.com/Eyyub/tensorflow-pix2pix
 https://github.com/marcellacornia/sam
