@@ -19,12 +19,12 @@ If you want to get the original high-resolution source image, please contact wit
 
 
 The code is highly inspired by the following projects, and thanks for their contributions:
-
-https://github.com/cvzoya/saliency
-https://github.com/Eyyub/tensorflow-pix2pix
-https://github.com/marcellacornia/sam
-https://github.com/TadasBaltrusaitis/OpenFace
+https://github.com/cvzoya/saliency          https://github.com/Eyyub/tensorflow-pix2pix         https://github.com/marcellacornia/sam     https://github.com/TadasBaltrusaitis/OpenFace
 
 Figures are Visulation Results : (The first column is the original image, the second column is the generated saliency map, the third is the ground-truth saliency map)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Figure_16_20000.png)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Figure_16_20001.png)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Figure_16_25000.png)
+
 
 The code of "local+global generators", and the Pytorch version, will be released when our paper is accepted ...  
