@@ -31,12 +31,12 @@ The code is highly inspired by the following projects, and thanks for their cont
 https://github.com/cvzoya/saliency          https://github.com/Eyyub/tensorflow-pix2pix         https://github.com/marcellacornia/sam     https://github.com/TadasBaltrusaitis/OpenFace
 
 
-**Figures are Visulations on normal SALICON dataset: (The first column is the original image, the second column is the predicted saliency map of GazeGAN, the third is the ground-truth saliency map)**
+**Figures represent Visualizations on normal SALICON dataset: (The first column is the original image, the second column is the predicted saliency map of GazeGAN, the third is the ground-truth saliency map)**
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Figure_16_20000.png)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Figure_16_20001.png)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Figure_16_25000.png)
 
-**Figures are Visulations on distorted dataset: (The first column is the original image, the second column is the predicted saliency map of GazeGAN, the third is the ground-truth saliency map)**
+**Figures represent Visualizations on distorted dataset: (The first column is the original image, the second column is the predicted saliency map of GazeGAN, the third is the ground-truth saliency map)**
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/shearing2.png)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/noise2.png)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/boundary.png)
