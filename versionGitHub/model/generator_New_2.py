@@ -69,7 +69,9 @@ class Generator(object):
             layer['bn_1'] = batch_norm(tf.reshape(layer['conv'], tf.shape(inputs_big)), center=self._center, scale=self._scale, training=self._is_training)
             layer['dropout_1'] = tf.nn.dropout(layer['bn_1'], self._prob) if use_dropout else layer['bn_1']
             layer['fmap_1'] = tf.nn.relu(layer['dropout_1'])
-            layer['fmap_2'] = tf.subtract(inputs_big, layer['fmap_1'])
+            layer['fmap_2'] = tf.subtract(inputs_big, layer['fmap_1']) # non linear subtraction
+            layer['fmap_2'] = tf.where(layer['fmap_2']>0, layer['fmap_2'], tf.zeros_like(layer['fmap_2']))  # non linear subtraction
+            # layer['fmap_2'] = tf.gather_nd(layer['fmap_2'], tf.where(layer['fmap_2'] > 0))
             # layer['fmap_2'] = tf.square(layer['fmap_2'])            
             layer['bn_2'] = batch_norm(tf.reshape(layer['conv'], tf.shape(inputs_big)), center=self._center, scale=self._scale, training=self._is_training)
             layer['dropout_2'] = tf.nn.dropout(layer['bn_2'], self._prob) if use_dropout else layer['bn_2']
