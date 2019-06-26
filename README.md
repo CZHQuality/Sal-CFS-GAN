@@ -1,4 +1,5 @@
 The main codes of this repository are listed in **"versionGitHub"** (tensorflow version).
+
 We update the  **"Pytorch version"** !!! Please refer to **"GazeGAN_LocalGlobal_Pytorch"**.
 
 The **main contributions** of the proposed model (called as **GazeGAN**):
@@ -37,9 +38,9 @@ If you want to get the original high-resolution source image, please contact wit
 The code is heavily inspired by the following projects, and thanks for their great contributions:
 
 **"https://github.com/NVIDIA/pix2pixHD"**
-**"https://github.com/cvzoya/saliency"**          
-**"https://github.com/Eyyub/tensorflow-pix2pix"**        
-**"https://github.com/marcellacornia/sam"**     
+**"https://github.com/cvzoya/saliency"** 
+**"https://github.com/Eyyub/tensorflow-pix2pix"** 
+**"https://github.com/marcellacornia/sam"**   
 **"https://github.com/TadasBaltrusaitis/OpenFace"**
 
 
