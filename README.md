@@ -56,12 +56,10 @@ The code is heavily inspired by the following projects, and thanks for their gre
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/boundary.png)
 
 **Figures represent Visualizations on MIT300 benchmark: (The first column is the original image, the second column is the predicted saliency map, the ground-truth are not published)**
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/shearing2.png)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/tree/master/MIT300_finetuned_on_MIT1003/Screenshot_1.jpg)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/tree/master/MIT300_finetuned_on_MIT1003/Screenshot_2.jpg)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/tree/master/MIT300_finetuned_on_MIT1003/Screenshot_3.jpg)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/tree/master/MIT300_finetuned_on_MIT1003/Screenshot_4.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/tree/master/MIT300_finetuned_on_MIT1003/Screenshot_5.jpg)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/tree/master/MIT300_finetuned_on_MIT1003/Screenshot_6.jpg)
 
 
