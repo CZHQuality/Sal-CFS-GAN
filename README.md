@@ -1,5 +1,6 @@
 We update the  **"Pytorch version"** !!! Please refer to **"GazeGAN_using_CSC"** and **"GazeGAN_LocalGlobal_Pytorch"**.
-**"GazeGAN_using_CSC"** utilizes local and global modified U-Nets equipped with cross-scale Center-Surround-Connections, while **"GazeGAN_LocalGlobal_Pytorch"** utilizes local abd global modified U-Nets without using Center-Surround-Connections, which serves as a baseline for comparison.
+1. **"GazeGAN_using_CSC"** utilizes local and global modified U-Nets equipped with cross-scale Center-Surround-Connections, 
+2. while **"GazeGAN_LocalGlobal_Pytorch"** utilizes local abd global modified U-Nets without using Center-Surround-Connections, which serves as a **baseline** for comparison.
 
 We also provide the tensorflow version. Notice that the tensorflow version only utilizes Local modified U-Net without using Global U-Net.
 It serves as a baseline for comparison.
