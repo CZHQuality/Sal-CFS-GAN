@@ -5,6 +5,10 @@ We also provide the tensorflow version. Notice that the tensorflow version only 
 It serves as a baseline for comparison.
 The tensorflow codes of this repository are listed in **"versionGitHub"**.
 
+**Requirements:**
+display memory: at least 3000MiB.
+Pytorch version: 3.5.2
+Tensorflow version: 1.2.0
 
 The **main contributions** of the proposed model (called as **GazeGAN**):
 1. The proposed saliency detection model is based on Generative Adversarial Model. The generator is based on an U-Net (with Center-Surround Connection, optional) and a ResNet Block, and the discriminator contains 4 convolutional layers. 
