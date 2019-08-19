@@ -18,7 +18,7 @@ The **main contributions** of the proposed model (called as **GazeGAN**):
 
 
 **Model Architecture of GazeGAN：**
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/architecture.png)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/ModelArchi11.jpg)
 
 
 **How to use our model (tensorflow) from scratch?**
