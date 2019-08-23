@@ -58,16 +58,6 @@ The code is heavily inspired by the following projects, and thanks for their gre
 
 
 
-**Figures represent Visualizations on normal SALICON dataset: (The first column is the original image, the second column is the predicted saliency map of GazeGAN, the third is the ground-truth saliency map)**
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Figure_16_20000.png)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Figure_16_20001.png)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Figure_16_25000.png)
-
-**Figures represent Visualizations on distorted dataset: (The first column is the original image, the second column is the predicted saliency map of GazeGAN, the third is the ground-truth saliency map)**
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/shearing2.png)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/noise2.png)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/boundary.png)
-
 **Figures represent Visualizations on MIT300 benchmark: (The first column is the original image, the second column is the predicted saliency map, the ground-truth are not published)**
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_1.jpg)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_2.jpg)
@@ -76,6 +66,15 @@ The code is heavily inspired by the following projects, and thanks for their gre
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_6.jpg)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_7.jpg)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_8.jpg)
-
-
-The code of "local+global generators", and the Pytorch version, will be released when our paper is accepted ...  
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_9.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_10.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_11.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_12.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_13.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_14.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_15.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_16.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_17.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_18.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_19.jpg)
+ 
