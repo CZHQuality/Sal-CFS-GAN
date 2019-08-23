@@ -74,6 +74,8 @@ The code is heavily inspired by the following projects, and thanks for their gre
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_3.jpg)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_4.jpg)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_6.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_7.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_8.jpg)
 
 
 The code of "local+global generators", and the Pytorch version, will be released when our paper is accepted ...  
