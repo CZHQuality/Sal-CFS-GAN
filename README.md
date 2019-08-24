@@ -1,4 +1,4 @@
-**Figures represent Visualizations on MIT300 benchmark: (The first column is the original image, the second column is the predicted saliency map, the ground-truth are not published)**
+**Figures represent Visualizations on MIT300 benchmark: (The first column is the predicted saliency map, the second column is the original image, the ground-truth are not published)**
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_1.jpg)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_2.jpg)
 ![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_3.jpg)
