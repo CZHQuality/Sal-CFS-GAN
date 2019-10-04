@@ -1,23 +1,3 @@
-**Figures represent Visualizations on MIT300 benchmark: (The first column is the predicted saliency map, the second column is the original image, the ground-truth are not published)**
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_1.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_2.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_3.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_4.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_6.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_7.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_8.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_9.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_10.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_11.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_12.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_13.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_14.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_15.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_16.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_17.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_18.jpg)
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_19.jpg)
-
 We update the  **"Pytorch version"** !!! Please refer to **"GazeGAN_using_CSC"** and **"GazeGAN_LocalGlobal_Pytorch"**.
 1. **"GazeGAN_using_CSC"** utilizes local and global modified U-Nets equipped with cross-scale Center-Surround-Connections, 
 2. while **"GazeGAN_LocalGlobal_Pytorch"** utilizes local and global modified U-Nets without using Center-Surround-Connections, which serves as a **baseline** for comparison.
@@ -80,5 +60,25 @@ The code is heavily inspired by the following projects, and thanks for their gre
 3. **"https://github.com/Eyyub/tensorflow-pix2pix"** 
 4. **"https://github.com/marcellacornia/sam"**   
 5. **"https://github.com/TadasBaltrusaitis/OpenFace"**
+
+**Figures represent Visualizations on MIT300 benchmark: (The first column is the predicted saliency map, the second column is the original image, the ground-truth are not published)**
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_1.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_2.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_3.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_4.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_6.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_7.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_8.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_9.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_10.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_11.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_12.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_13.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_14.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_15.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_16.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_17.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_18.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/Screenshot_19.jpg)
 
  
