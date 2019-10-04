@@ -52,7 +52,7 @@ or
 
 
 
-The supplementary material of this project is available at: 
+The supplementary material (containing more finer-grained visualizations and comparisons) of this project is available at: 
 https://drive.google.com/file/d/151CbvR1dGDXnMzt50gjR-BJYeQT5U5Ml/view?usp=sharing
 
 The code is heavily inspired by the following projects, and thanks for their great contributions:
