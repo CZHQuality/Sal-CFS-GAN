@@ -42,6 +42,7 @@ The **main contributions** of the proposed model (called as **GazeGAN**):
 
 
 **How to use our model (tensorflow) from scratch?**
+**Warnings: The tensorflow code is the initial version of this repository. After that, we do some slight changes and improvements to the initial version. Therefore, the performance of the tensorflow code is not as good as our final version (Pytorch code). Currently, we recommend the users to adopt the Pytorch version, which is consistent with our final paper. We will update the final version of the tensorflow code as soon as possible.**
 1. Data Pre-processing Step : Run "build_dataset_New_3.py" to transfer the training and testing images as .npy format (Notice that you should change the image path in our code as your own file path)
 2. Training Step : Run "example_New_4.py" to train the model from scratch. Besides, you can also run "example_New_5.py" to fine-tune the pre-trained model on your own task-specific datasets.
 3. Testing Step : Run "val_New_3.py" to generate the predicted saliency maps and save the generated results to the appointed file path. 
