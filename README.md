@@ -1,4 +1,4 @@
-# A New Deep CNN for Predicting Salieny Regions over Challenging Scenes corrupted by various Transformations/Distortions.
+# GazeGAN: A New Saliency Prediction Model 
 
 # This work has been Accepted by IEEE Transactions on Image Processing: https://ieeexplore.ieee.org/document/8866748
 
