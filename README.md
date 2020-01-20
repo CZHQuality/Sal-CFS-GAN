@@ -1,5 +1,8 @@
-Accepted by IEEE Transactions on Image Processing: https://ieeexplore.ieee.org/document/8866748
+# A New Deep CNN for Predicting Salieny Regions over Challenging Scenes corrupted by various Transformations/Distortions.
 
+# This work has been Accepted by IEEE Transactions on Image Processing: https://ieeexplore.ieee.org/document/8866748
+
+'''
 Citation:
 
 @article{ZhaohuiTIP19,
@@ -13,6 +16,7 @@ journal = {IEEE Transactions on Image Processing},
 year = {2019}
 
 }
+'''
 
 We update the  **"Pytorch version"** !!! Please refer to **"GazeGAN_using_CSC"** and **"GazeGAN_LocalGlobal_Pytorch"**.
 1. **"GazeGAN_using_CSC"** utilizes local and global modified U-Nets equipped with cross-scale Center-Surround-Connections, 
