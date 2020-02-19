@@ -1,6 +1,6 @@
 # GazeGAN: A New Saliency Prediction Model 
 
-# This work has been Accepted by IEEE Transactions on Image Processing: https://ieeexplore.ieee.org/document/8866748
+# This work has been Accepted by IEEE Transactions on Image Processing: https://ieeexplore.ieee.org/abstract/document/8866748/algorithms#algorithms
 
 
 # Citation:
