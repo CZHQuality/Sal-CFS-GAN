@@ -14,7 +14,7 @@
 }
 ```
 
-# The performance scores of our model on the MIT300 benchmark (See https://saliency.tuebingen.ai for more details and rankings):
+# The scores of our model on the MIT300 benchmark (See https://saliency.tuebingen.ai for more details):
 
 AUC metric: 0.86070
 
@@ -28,7 +28,7 @@ KL divergence metric: 1.33904
 
 Similarity metric: 0.64914
 
-# The performance scores of our model on the CAT2000 benchmark (See https://saliency.tuebingen.ai for more details and rankings):
+# The scores of our model on the CAT2000 benchmark (See https://saliency.tuebingen.ai for more details):
 
 AUC metric: 0.87298
 
