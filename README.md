@@ -14,6 +14,35 @@
 }
 ```
 
+# The performance scores of our model on the MIT300 benchmark (See https://saliency.tuebingen.ai for more details and rankings):
+
+AUC metric: 0.86070
+
+shuffled AUC metric: 0.73163
+
+Normalized Scanpath Saliency metric: 2.21181
+
+Cross-correlation metric: 0.75789
+
+KL divergence metric: 1.33904
+
+Similarity metric: 0.64914
+
+# The performance scores of our model on the CAT2000 benchmark (See https://saliency.tuebingen.ai for more details and rankings):
+
+AUC metric: 0.87298
+
+shuffled AUC metric: 0.59597
+
+Normalized Scanpath Saliency metric: 2.31690
+
+Cross-correlation metric: 0.82201
+
+KL divergence metric: 0.71665
+
+Similarity metric: 0.68483
+
+
 
 We update the  **"Pytorch version"** !!! Please refer to **"GazeGAN_using_CSC"** and **"GazeGAN_LocalGlobal_Pytorch"**.
 1. **"GazeGAN_using_CSC"** utilizes local and global modified U-Nets equipped with cross-scale Center-Surround-Connections, 
