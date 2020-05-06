@@ -14,6 +14,9 @@
 }
 ```
 
+**Leaderboard of MIT300 Benchmark：**
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/mit300.jpg)
+
 # The scores of our model on the MIT300 benchmark (See https://saliency.tuebingen.ai for more details):
 
 AUC metric: 0.86070
@@ -42,8 +45,6 @@ KL divergence metric: 0.71665
 
 Similarity metric: 0.68483
 
-**Leaderboard of MIT300 Benchmark：**
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/MIT300.jpg)
 
 
 
