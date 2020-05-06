@@ -42,6 +42,9 @@ KL divergence metric: 0.71665
 
 Similarity metric: 0.68483
 
+**Leaderboard of MIT300 Benchmark：**
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/MIT300.jpg)
+
 
 
 We update the  **"Pytorch version"** !!! Please refer to **"GazeGAN_using_CSC"** and **"GazeGAN_LocalGlobal_Pytorch"**.
