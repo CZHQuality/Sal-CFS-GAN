@@ -15,7 +15,7 @@
 ```
 
 **Leaderboard of MIT300 Benchmark：**
-![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/mit300.jpg)
+![image](https://github.com/CZHQuality/Sal-CFS-GAN/blob/master/mit300_2.jpg)
 
 # The scores of our model on the MIT300 benchmark (See https://saliency.tuebingen.ai for more details):
 
